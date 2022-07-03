@@ -1,0 +1,33 @@
+*{
+ margin: 20px auto;
+}
+h1{
+ color: red;
+ position: absolute;
+ top: 0;
+ left: 0;
+ text-align: center;
+}
+
+.about{
+ color: blueviolet;
+ background-color: aqua;
+ padding: 20px 30px;
+ text-align: justify;
+ border: 2px solid red;
+}
+div{
+ height: 150px;
+ width: 300px;
+ border-radius: 5px;
+ /* box-sizing: border-box; */
+ background: yellow;
+ position: relative;
+ 
+}
+img{
+ margin: 50px ;
+ border: transparent;
+ border-radius: 3px;
+
+}
